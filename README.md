@@ -3,42 +3,42 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 ### CSS Flex
 - [ ] CSS Flex Basics
-- [] Main Axis and Cross Axis
-- [] Flex Direction
-- [] Flex Wrap
-- [] Align Self
+- [ ] Main Axis and Cross Axis
+- [ ] Flex Direction
+- [ ] Flex Wrap
+- [ ] Align Self
 
 ### CSS Grid
-- [] CSS Grid Basics (row, columns and gaps)
-- [] Auto columns, auto rows
-- [] Template Areas
-- [] Template Areas
-- [] fr unit, repeat
-- [] minmax, max-content, min-content
-- [] auto-fill, auto-fit
-- [] Justify Content, Align Content and Place Content
-- [] Justify Items, Align Items and Place Items
-- [] Grid Column, Column Start and End
-- [] Line Naming
-- [] Grid Row, Row Start and End
-- [] Grid Area
-- [] Justify, Alignm Place Self
+- [ ] CSS Grid Basics (row, columns and gaps)
+- [ ] Auto columns, auto rows
+- [ ] Template Areas
+- [ ] Template Areas
+- [ ] fr unit, repeat
+- [ ] minmax, max-content, min-content
+- [ ] auto-fill, auto-fit
+- [ ] Justify Content, Align Content and Place Content
+- [ ] Justify Items, Align Items and Place Items
+- [ ] Grid Column, Column Start and End
+- [ ] Line Naming
+- [ ] Grid Row, Row Start and End
+- [ ] Grid Area
+- [ ] Justify, Alignm Place Self
 
 ### Using CSS4
-- [] Installing Parce!
-- [] Configuring PostCSS
-- [] Testing
+- [ ] Installing Parce!
+- [ ] Configuring PostCSS
+- [ ] Testing
 
 ### CSS4 Awesomeness
-- [] :matches, :not
-- [] CSS Variables
-- [] @custom-selector
-- [] @custom-media
-- [] Media Query Ranges
-- [] color-mod, gray(), system-ui
-- [] Nesting Rules
+- [ ] :matches, :not
+- [ ] CSS Variables
+- [ ] @custom-selector
+- [ ] @custom-media
+- [ ] Media Query Ranges
+- [ ] color-mod, gray(), system-ui
+- [ ] Nesting Rules
 
 ### Conclusions
-- [] CSS Grid Kiss
-- [] Practice Flexbox
-- [] Practice Grid
+- [ ] CSS Grid Kiss
+- [ ] Practice Flexbox
+- [ ] Practice Grid 
