@@ -1,0 +1,31 @@
+{
+    "name": "css-masterclass",
+    "version": "1.0.0",
+    "description": "css masterclass",
+    "directories": {
+        "example": "example"
+    },
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gontry2/css-masterclass.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gontry2/css-masterclass/issues"
+    },
+    "homepage": "https://github.com/gontry2/css-masterclass#readme",
+    "dependencies": {
+        "postcss-preset-env": "^6.7.0"
+    },
+    "postcss": {
+        "plugins": {
+            "postcss-preset-env": {
+                "stage": 0
+            }
+        }
+    }
+}
